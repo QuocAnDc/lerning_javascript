@@ -1,0 +1,42 @@
+- Khai báo biến của js
+để khai báo biến ta có thể dùng var 
+cú pháp : var "tên biến ";
+cú pháp để chạy chương trình hiển cửa sộ thông báo là alert()
+- Sử dụng comments 
+1 mục đích sử dụng
++ ghi chú
++ vô hiệu hóa mã
+2 loại comments
++ comment 1 dòng. //
++ comment nhiều dòng /* */
+3 sử dụng phím tắt
++ windows: ctrl + /
++MacOS: Command + /
+- Một số hàm built-in
+1. alert
+2. console
+3. confirm
+4. prompt
+5. set timeout
+6. set interval
+- Làm quen toán tử trong js
+1. toán tử số học - Arithemetic
+2. toán tử gán - Assignment
+3. toán tử so sánh Comparison
+4. toán tử logic - logical
+- Toán tử số học trong js
+1. + --> cộng
+2. - --> trù
+3. * --> nhân
+4. ** --> lũy thừa
+5. / --> chia
+6. % --> chia lấy số dư
+7. ++ --> tăng 1 giá trị số
+8. -- --> giảm 1 giá trị số
+- Toán tử gán trong js
+1. = 
+2. +=
+3. -=
+4. *=
+5. /=
+6. **=
