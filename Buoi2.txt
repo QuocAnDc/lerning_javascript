@@ -28,3 +28,37 @@
 2. dữ liểu phức tạp - complex data
 + function
 + object
+- Toán tử so sánh trong Js_P2
+1. === --> so sánh bằng tuyệt đối
+2. !== --> so sánh không bằng tuyệt đối
+- Toán tử logical và câu lệnh if trong Js
+- Chuỗi trong Js
+1. tạo chuỗi
++ các cách tạo chuỗi
+  có 2 cách tạo chuỗi
+    1, '',""
+    2, string
++ Nên dùng cách nào? lý do?
+  nên dùng cách số 1, vì đây là kiểu đơn giản hơn cách 
++ kiểm tra data type
+  sử dụng typeof: console.log(typeof {biến} );
+2. một số case sử dụng backslash (/)
+3. xem độ dài chuỗi
+sự dụng length
+4. chú ý độ dài chuỗi viết code
+5. template string 
+- Làm việc với chuỗi trong Js
+1. Legth
+2. Find index
+3. Cut string
+4. Replsce
+5. Convert to upper case
+6. Convert ti lower case
+7. Trim
+8. Split
+9. Get a character by 
+- Số và làm việc với kiểu số trong Js
+1. tạo giá trị number
+2. Làm việc với number
++ to string
++ to fixed
