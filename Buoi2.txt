@@ -1,0 +1,30 @@
+- Toán tử chuỗi trong Js
++sử dụng nối chuối bằng: +
+- Toán tử so sánh trong Js
+1. == --> bằng
+2. != --> khác hoặc không bằng
+3. > --> Lớn hơn 
+4. < --> nhỏ hơn
+5. >= --> lớn hơn hoặc bằng
+6. <= -->nhỏ hơn hoặc  
+- Kiểu dữ liệu boolean trong Js
++ là kiểu dữ liểu trả về true hoặc false
+- Câu lệnh if-else trong Js
++if(diều kiện) { khối lệnh thực thi }
++if else(diều kiện) { khối lệnh thực thi }
++else { khối lệnh thực thi }: else không cần diều kiện vì nó là diều kiện còn lại của if và if else.
+- Toán tử logical trong Js
+1. && --> And hoặc diều kiển và
+2. || --> or hoặc diều kiện hoặc
+3. ! --> not hoặc là trả về diều kiện phụ định
+- Các kiểu dữ liểu trong Js
+1. dữ liệu nguyên thủy - primitive data
++ number
++ string
++ boolean
++ undefined
++ null
++ symbol
+2. dữ liểu phức tạp - complex data
++ function
++ object
