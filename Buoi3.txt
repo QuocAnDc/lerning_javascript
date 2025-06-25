@@ -1,0 +1,43 @@
+- Mảng trong Js - Array
+1. tạo mảng
+2. truy xuất mảng
++ độ dài mảng
++ lấy phần tử theo 
+- Lầm việc với mảng trong Js
+1. to string
+2. join
+3. pop
+4. push
+5. shift
+6. unshift
+7. splicing
+8. concat
+9. slicing
+- Hàm trong Js
+1. hàm?
++ một khối mã
++ làm 1 việc cụ thể
+2. loại hàm
++ built-in
+tụ định nghĩa
+3 tính chất
++ không thực thi khi định nghĩa 
++ sẽ thực thi khi được gọi
++ có thể nhận tham số
++ có thể trả về 1 giá trị
+4. tạo hàm dầu 
+- Tham số hàmg trong Js
+1. tham số
++ định nghĩa: là các biến được định nghĩa trong phần khai báo của một hàm
++ kiểu dữ liệu: boolean, số, chuỗi, hàm
++ tính private: tính riêng tư
++ 1 tham số
++ nhiều tham số
+2. truyền tham số
++ 1 tham số
++ nhiều tham số
+3. arguments
++ đối tưởng arguments
++ giới thiệu vòng for
+- Return trong hàm Js
+return là kiểu biến trả về với kết quả cuối cùng
