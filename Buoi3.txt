@@ -29,7 +29,7 @@ tụ định nghĩa
 - Tham số hàmg trong Js
 1. tham số
 + định nghĩa: là các biến được định nghĩa trong phần khai báo của một hàm
-+ kiểu dữ liệu: boolean, số, chuỗi, hàm
++ kiểu dữ liệu: không giới hạn
 + tính private: tính riêng tư
 + 1 tham số
 + nhiều tham số
