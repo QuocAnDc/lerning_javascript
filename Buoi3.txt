@@ -41,3 +41,7 @@ tụ định nghĩa
 + giới thiệu vòng for
 - Return trong hàm Js
 return là kiểu biến trả về với kết quả cuối cùng
+- Các loại function trong Js
+1. declaration function
+2. expression function
+3. arrow function
