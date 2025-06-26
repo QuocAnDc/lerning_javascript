@@ -45,3 +45,9 @@ return là kiểu biến trả về với kết quả cuối cùng
 1. declaration function
 2. expression function
 3. arrow function
+-Khái niệm polyfill trong Js
++ là một đoạn mã được viết nhằm cung cấp các tính năng còn thiếu trên một số phiên bản trình duyệt cũ hoặc không tự hỗ trợ
+- Object trong Js
++là một thực thể độc lập với thuộc tính và kiểu
++ function trả về phương thức
++ others (còn lại) trả về thộc tính
