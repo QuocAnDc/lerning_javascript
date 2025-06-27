@@ -1,0 +1,2 @@
+- Object contructor
++ xây dượng đối tưởng
