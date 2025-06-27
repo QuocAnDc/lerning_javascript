@@ -2,3 +2,27 @@
 + xây dượng đối tưởng
 - Object prototype - basic
 1. prototype là nguyên mẫu để tạo ra 1 đối tượng
+- Date object trong Js
++ biểu diễn một thời điểm cụ thể, tính bằng mili giây kể từ thời điểm epoch
+- Câu lệnh rẽ nhánh if, else trong Js
+- Câu lệnh rẽ nhánh Switch trong Js
+-Toán tử 3 ngôi(ternary operator) trong Js
+-Vòng lặp trong Js
+1. for - lặp với diều kiện đúng
+2. for/in - lặp qua key của đối tượng
+3. for/of - lặp qua value của đối tượng
+4. while - lặp khi diều kiện đúng
+5 do/while - lặp ít nhất 1 lần, sau đó lặp khi điều kiện đúng
+- Break và Continue trong vòng lặp Js
++ break : dừng lại
++ continue : tiếp tục
+- vòng lặp lồng nhau (Nested loop) trong Js
+- Làm việc với mảng trong Js
++ array methods:
+  forEach()
+  every()
+  some()
+  find()
+  filter()
+  map()
+  reduce()
