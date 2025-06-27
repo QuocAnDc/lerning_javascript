@@ -1,2 +1,4 @@
 - Object contructor
 + xây dượng đối tưởng
+- Object prototype - basic
+1. prototype là nguyên mẫu để tạo ra 1 đối tượng
